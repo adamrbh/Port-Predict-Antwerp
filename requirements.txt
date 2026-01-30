@@ -1,0 +1,4 @@
+# Bibliothèques R nécessaires
+fpp2
+zoo
+ggplot2
